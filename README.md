@@ -1,5 +1,4 @@
 # salvar-projeto-no-github
-# Salvar o projeto no seu Github
 
 git config --global user.name <seu nome>
 git config --global user.email <seu email>
